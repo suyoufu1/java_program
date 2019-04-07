@@ -1,0 +1,5 @@
+hello,what is git?
+this is git.git is a tool.
+it is master in the computer.
+which hava git is controller file and diroctery etc.
+
